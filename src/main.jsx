@@ -12,7 +12,7 @@ createRoot(document.getElementById('root')).render(
     domain="dev-mup1qqhdazbx0vo1.us.auth0.com"
     clientId="siKAAW1hKNVmfN2ciIhVgPaYrrwPWgBK"
     authorizationParams={{
-      redirect_uri: window.location.origin
+      redirect_uri: "https://syedaamnarafi.github.io/tastyburgers/"
     }}
   >
     <App />
