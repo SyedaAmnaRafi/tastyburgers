@@ -1,12 +1,12 @@
 import { Footer } from "./Footer"
 import { Header } from "./Header"
-import { Outlet } from "react-router-dom"
 
-export const AppLayout = () => {
+
+export const AppLayout = ({children}) => {
     return (
         <>
         <Header/>
-        <Outlet/>
+       <div>{children}</div>
         <Footer/>
 
         </>

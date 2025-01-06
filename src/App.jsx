@@ -7,15 +7,14 @@ import { getAllBurgersApiData } from '../public/GetAllBurgerData'
 function App() {
   const router = createBrowserRouter([
     {
-      path:"/tastyburgers/",
-      element: <AppLayout/>,
-      children: [
-        {
-          path: "/",
-          element: <Home/>,
-          loader: getAllBurgersApiData,
-        }
-      ]
+      path: "/tastyburgers/",
+      element: <Home/>,
+      loader: getAllBurgersApiData,
+    },
+    {
+      path: "/tastyburgers/about",
+      element: <Home/>,
+      loader: getAllBurgersApiData,
     }
   ])
   

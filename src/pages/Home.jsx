@@ -9,6 +9,7 @@ import { HomeMenuSection } from '../components/HomeMenuSection'
 import { HomePromotionSection } from '../components/HomePromotionSection'
 import HomeReviewSection from '../components/HomeReviewSection'
 import HomeShopSection from '../components/HomeShopSection'
+import { AppLayout } from '../components/Layout/AppLayout'
 
 
 export const Home = () => {
@@ -16,13 +17,16 @@ export const Home = () => {
    
     return (
         <>
-      < HomeHeroSection />
+        <AppLayout> 
+        < HomeHeroSection />
       <HomeAboutSection/>
       <HomeMenuSection/>
       <HomePromotionSection/>
       <HomeShopSection/>
       <HomeReviewSection/>
       <HomeContactSection/>
+        </AppLayout>
+     
 
 
         </>

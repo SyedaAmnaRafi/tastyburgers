@@ -27,10 +27,10 @@ export const Header = () => {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link as={Link} to="/">
+              <Nav.Link as={Link} to="/tastyburgers/">
                 Home
               </Nav.Link>
-              <Nav.Link as={Link} to="/about">
+              <Nav.Link as={Link} to="/tastyburgers/about">
                 About
               </Nav.Link>
               <Nav.Link as={Link} to="/menu">
