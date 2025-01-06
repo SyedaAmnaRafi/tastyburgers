@@ -1,0 +1,60 @@
+[
+    {
+        "id": "0016",
+        "image_url": "../../src/assets/menu/burger26.png",
+        "title": "Crispy Bacon & Egg Burger  ",
+       " paragraph": "Bacon, fried egg, and hollandaise sauce for indulgence.",
+        "rating": 5,
+        "price": 20.49
+      },
+      {
+        "id": "0017",
+        "image_url": "../../src/assets/menu/burger27.png",
+        "title": "BBQ Bacon Crunch ",
+       " paragraph": "BBQ sauce, bacon, and crispy onion rings for crunch.",
+        "rating": 3.9,
+        "price": 10.59
+      },
+      {
+        "id": "0018",
+        "image_url": "../../src/assets/menu/burger28.png",
+        "title": "Garlic Herb Fusion ",
+       " paragraph": "Garlic, herbs, and creamy aioli for savory flavor.",
+        "rating": 4.8,
+        "price": 9.49
+      },
+      {
+        "id": "0019",
+        "image_url": "../../src/assets/menu/burger29.png",
+        "title": "Buffalo Ranch Burger  ",
+       " paragraph": "Spicy buffalo sauce and creamy ranch for bold taste.",
+        "rating": 4.8,
+        "price": 9.49
+      },
+      {
+        "id": "0020",
+        "image_url": "../../src/assets/menu/burger30.png",
+        "title": "Truffle Mushroom Melt  ",
+       " paragraph": "Truffle oil, mushrooms, and Swiss for rich flavor.",
+        "rating": 4.8,
+        "price": 12.99
+      },
+      {
+        "id": "0021",
+        "image_url": "../../src/assets/menu/burger31.png",
+        "title": "Avocado Lime Crunch   ",
+       " paragraph": "Avocado, lime, and fresh veggies for creamy zest.",
+        "rating": 4.9,
+        "price": 16.99
+      },
+      {
+        "id": "0022",
+        "image_url": "../../src/assets/menu/burger32.png",
+        "title": "Black & Blue Steakhouse Burger ",
+       " paragraph": "Blackened seasoning, blue cheese, and lettuce for boldness.",
+        "rating": 5,
+        "price": 14.99
+      }
+      
+    
+]

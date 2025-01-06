@@ -1,0 +1,179 @@
+[
+    {
+      "id": "0001",
+      "image_url": "../../src/assets/menu/burger-11.jpg",
+      "title": "Crispy Chicken",
+     "paragraph": "Chicken breast, chilli sauce, tomatoes, pickles, coleslaw",
+      "rating": 5,
+      "price": 99.15
+    },
+    {
+      "id": "0002",
+      "image_url": "../../src/assets/menu/burger-12.jpg",
+      "title": "Ultimate Bacon",
+     "paragraph": "House patty, cheddar cheese, bacon, onion, mustard",
+      "rating": 4.5,
+      "price": 99.32
+    },
+    {
+      "id": "0003",
+      "image_url": "../../src/assets/menu/burger-13.jpg",
+      "title": "Black Sheep",
+     "paragraph": "American cheese, tomato relish, avocado, lettuce, red onion",
+      "rating": 4,
+      "price": 69.15
+    },
+    {
+      "id": "0004",
+      "image_url": "../../src/assets/menu/burger-14.jpg",
+      "title": "Vegan Burger",
+     "paragraph": "House patty, cheddar cheese, bacon, onion, mustard",
+      "rating": 3.5,
+      "price": 99.25
+    },
+    {
+      "id": "0005",
+      "image_url": "../../src/assets/menu/burger-15.jpg",
+      "title": "Double Burger",
+     "paragraph": "2 patties, cheddar cheese, mustard, pickles, tomatoes",
+      "rating": 3.0,
+      "price": 59.25
+    },
+    {
+      "id": "0006",
+      "image_url": "../../src/assets/menu/burger-16.jpg",
+      "title": "Turkey Burger",
+     "paragraph": "Turkey, cheddar cheese, onion, lettuce, tomatoes, pickles",
+      "rating": 3,
+      "price": 79.18
+    },
+    {
+      "id": "0007",
+      "image_url": "../../src/assets/menu/burger-17.jpg",
+      "title": "Smokey House",
+     "paragraph": "patty, cheddar cheese, onion, lettuce, tomatoes, pickles",
+      "rating": 2.5,
+      "price": 99.19
+    },
+    {
+      "id": "0008",
+      "image_url": "../../src/assets/menu/burger-18.jpg",
+      "title": "Classic Burger",
+     "paragraph": "cheddar cheese, ketchup, mustard, pickles, onion",
+      "rating": 4.0,
+      "price": 89.12
+    },
+    {
+      "id": "0009",
+      "image_url": "../../src/assets/menu/burger19.png",
+      "title": "Classic Creek Burger",
+     "paragraph": "Juicy beef, fresh veggies, and creamy sauce on a toasted bun.",
+      "rating": 4.6,
+      "price": 89.9
+    },
+    {
+      "id": "0010",
+      "image_url": "../../src/assets/menu/burger20.png",
+      "title": "Zesty Onion Delight",
+     "paragraph": "Caramelized onions and tangy sauce for bold flavor",
+      "rating": 4.8,
+      "price": 9.49
+    },
+    {
+      "id": "0011",
+      "image_url": "../../src/assets/menu/burger21.png",
+      "title": "Smoky BBQ Bliss",
+     "paragraph": "BBQ sauce, bacon, and cheddar for rich, smoky goodness.",
+      "rating": 3.4,
+      "price": 10.99
+    },
+    {
+      "id": "0012",
+      "image_url": "../../src/assets/menu/burger22.png",
+      "title": "The Spicy Fiesta ",
+     "paragraph": "Jalapeños, salsa, and hot sauce for a fiery kick.",
+      "rating": 4.0,
+      "price": 9.99
+    },
+    {
+      "id": "0013",
+      "image_url": "../../src/assets/menu/burger29.png",
+      "title": "Loaded Cheese Supreme  ",
+     "paragraph": "Cheese, bacon, and crispy onion rings in every bite.",
+      "rating": 4.5,
+      "price": 11.49
+    },
+    {
+      "id": "0014",
+      "image_url": "../../src/assets/menu/burger24.png",
+      "title": "The Veggie Medley  ",
+     "paragraph": "Fresh veggies and grilled mushrooms for a healthy twist.",
+      "rating": 4.7,
+      "price": 17.49
+    },
+    {
+      "id": "0015",
+      "image_url": "../../src/assets/menu/burger25.png",
+      "title": "Jalapeño Popper Burger   ",
+     "paragraph": "Cream cheese, crispy jalapeños, and bacon for heat.",
+      "rating": 4.9,
+      "price": 15.49
+    },
+    {
+      "id": "0016",
+      "image_url": "../../src/assets/menu/burger26.png",
+      "title": "Crispy Bacon & Egg Burger  ",
+     "paragraph": "Bacon, fried egg, and hollandaise sauce for indulgence.",
+      "rating": 5,
+      "price": 20.49
+    },
+    {
+      "id": "0017",
+      "image_url": "../../src/assets/menu/burger27.png",
+      "title": "BBQ Bacon Crunch ",
+     "paragraph": "BBQ sauce, bacon, and crispy onion rings for crunch.",
+      "rating": 3.9,
+      "price": 10.59
+    },
+    {
+      "id": "0018",
+      "image_url": "../../src/assets/menu/burger28.png",
+      "title": "Garlic Herb Fusion ",
+     "paragraph": "Garlic, herbs, and creamy aioli for savory flavor.",
+      "rating": 4.8,
+      "price": 9.49
+    },
+    {
+      "id": "0019",
+      "image_url": "../../src/assets/menu/burger29.png",
+      "title": "Buffalo Ranch Burger  ",
+     "paragraph": "Spicy buffalo sauce and creamy ranch for bold taste.",
+      "rating": 4.8,
+      "price": 9.49
+    },
+    {
+      "id": "0020",
+      "image_url": "../../src/assets/menu/burger30.png",
+      "title": "Truffle Mushroom Melt  ",
+     "paragraph": "Truffle oil, mushrooms, and Swiss for rich flavor.",
+      "rating": 4.8,
+      "price": 12.99
+    },
+    {
+      "id": "0021",
+      "image_url": "../../src/assets/menu/burger31.png",
+      "title": "Avocado Lime Crunch   ",
+     "paragraph": "Avocado, lime, and fresh veggies for creamy zest.",
+      "rating": 4.9,
+      "price": 16.99
+    },
+    {
+      "id": "0022",
+      "image_url": "../../src/assets/menu/burger32.png",
+      "title": "Black & Blue Steakhouse Burger ",
+     "paragraph": "Blackened seasoning, blue cheese, and lettuce for boldness.",
+      "rating": 5,
+      "price": 14.99
+    }
+    
+  ]

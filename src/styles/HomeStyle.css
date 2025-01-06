@@ -1,0 +1,439 @@
+/* hero section style */
+.hero-section {
+    position: relative;
+    padding-top: 170px;
+    padding-bottom: 90px;
+    background: url("../assets/hero/hero-1.jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.hero-section .price-badge {
+    background: url(../../src/assets/hero/price-badge-yellow.png) no-repeat center center;
+    position: absolute;
+    top: -20px;
+    right: 5px;
+    background-size: cover;
+    width: 180px;
+    height: 176px;
+    text-align: center;
+}
+
+.hero-section .price-text {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+}
+
+.hero-section .price-text .burger-text1 {
+    font-weight: 600;
+    font-size: 1.875rem;
+    line-height: 1;
+}
+
+.hero-section .price-text .burger-text2 {
+    font-weight: 600;
+    font-size: 2.875rem;
+    line-height: 1;
+}
+
+.hero-section .hero-text h1 {
+    font-family: var(--lilita-font);
+    font-size: 7rem;
+    line-height: 1;
+    margin-bottom: 15px;
+    letter-spacing: 3px;
+}
+
+.hero-section .hero-text h2 {
+    font-family: var(--lilita-font);
+    font-size: 2.5rem;
+    line-height: 1;
+    margin-bottom: 20px;
+    letter-spacing: 3px;
+}
+
+.hero-section .hero-text p {
+    padding: 0 5%;
+}
+
+/* about-section style */
+.about-section {
+    padding-top: 80px;
+    padding-bottom: 300px;
+    background: url("../../src/assets/about/about-1.jpg") no-repeat center center;
+    background-size: cover;
+    width: 100%;
+}
+
+.about-section h2 {
+    font-size: 3.5rem;
+}
+
+.about_section p {
+    color: var(--grey);
+    padding: 20px 30px;
+    font-size: 19px;
+}
+
+.about-info {
+    padding-top: 70px;
+    padding-bottom: 30px;
+    background: var(--yellow);
+}
+
+.about-info .about-img img {
+    width: 25%;
+}
+
+.about_box h4 {
+    font-size: 26px;
+    line-height: 1;
+    letter-spacing: 0.5008px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.about_box p {
+    padding: 0 20px;
+}
+
+/* menu section */
+
+.menu-section {
+    padding-block: 100px;
+}
+
+.menu-section .card-img-top {
+    transition: all 500ms ease-in-out;
+}
+
+.menu-section h2 {
+    font-size: 3.5rem;
+    color: var(--light-red);
+}
+
+.menu-section .para {
+    font-size: 19px;
+    color: var(--grey);
+    padding: 10px 100px;
+}
+
+.menu-section .item-rating i {
+    color: var(--yellow);
+    padding-right: 5px;
+}
+
+.menu-section .wishlist i {
+    /* color: var(--grey); */
+    color: lightgray;
+
+    font-size: 20px;
+    cursor: pointer;
+    outline: black;
+    border-color: black;
+}
+
+.menu-section .wishlist i:hover {
+    color: var(--light-red);
+
+}
+
+.menu-section .card-title {
+    font-family: var(--oswald-font);
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.menu-section .card-text {
+    color: var(--grey);
+    font-size: 15px;
+}
+
+.menu-section .menu-price {
+    background-color: var(--bg-coffee);
+    display: inline-block;
+    padding: 7px 12px;
+    border-radius: 4px;
+
+}
+
+.menu-section .menu-price h5 {
+    color: var(--yellow);
+    font-size: 1rem;
+}
+
+.menu-section .add-to-cart a {
+    background-color: var(--yellow);
+    font-size: 1rem;
+    line-height: 1;
+    font-weight: 700;
+    padding: 8px 14px;
+    border-radius: 4px;
+
+
+}
+
+.menu-section .card:hover .card-img-top {
+    transform: scale(1.3);
+}
+.menu-section .ads-box{
+    text-align: right;
+    padding: 80px 35px 50px;
+    border-radius: 6px;
+}
+.menu-section  .ad-img1{
+    background: url('../../src/assets/menu/ads-1.jpg') no-repeat center center;
+    background-size: cover;
+}
+.menu-section  .ad-img2{
+    background: url('../../src/assets/menu/ads-2.jpg') no-repeat center center;
+    background-size: cover;
+}
+.menu-section .ads-box h4{
+    font-size: 2.25rem;
+    font-weight: 300;
+    color: var(--brown);
+}
+.menu-section .ads-box h5{
+    font-size: 2.375rem;
+   
+    color: var(--brown);
+}
+.menu-section .ads-box a{
+    margin-top: 15px;
+    font-size: 18px;
+}
+.promotion-section{
+    padding-block: 60px;
+    background: var(--light-grey-2);
+}
+.promotion-section h2{
+    font-size: 3.25rem;
+    margin-bottom: 25px;
+}
+.promotion-section p{
+    font-size: 1.125rem;
+}
+.promotion-section ul{
+    padding-left: 15px;
+}
+.bg-parallax-scroll{
+    background: url(../assets/parallax/bg.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+}
+.shop-section{
+    padding:  100px 0 0;
+    background: var(--yellow);
+}
+.shop-section h4{
+    font-size: 2.375rem;
+    color: var(--bg-coffee);
+}
+.shop-section h2{
+    font-size: 4.5rem;
+    font-weight: 600;
+    color: var(--bg-coffee);
+    letter-spacing: -1px;
+}
+.shop-section p{
+    font-size: 1.25rem;
+    color: var(--bg-coffee);
+    padding-right: 10%;
+    margin-bottom: 40px;
+}
+.shop-section .app-store-img{
+    width: 40%;
+}
+.brand-section{
+    padding: 70px 0 40px;
+    background-color: var(--light-grey-2);
+    overflow: hidden;
+}
+.brand-section .brand-image{
+    width: 180px;
+    height: auto;
+}
+.carousel.slide .carousel-inner {
+    overflow: unset;
+  }
+  .carousel.slide .carousel-inner .carousel-caption {
+    position: relative;
+    right: unset;
+    left: unset;
+  }
+
+  /* review section */
+  .review-section{
+    padding: 80px 0 40px;
+    background: url("../../src/assets/blog/reviews.jpg") no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+    background-attachment: fixed;
+  }
+  .review-section .user-img img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    object-fit: cover;
+    margin-bottom: 25px;
+  }
+  .review-section .carousel.slide .carousel-inner .carousel-caption p{
+    font-size: 1.7rem;
+    line-height: 1.4;
+    font-weight: 400;
+    padding: 0 12%;
+    margin-bottom: 15px;
+  }
+  .review-section .carousel.slide .carousel-inner .carousel-caption .item-rating{
+    margin-bottom: 5px;
+  }
+  .review-section .carousel.slide .carousel-inner .carousel-caption .item-rating i{
+    color: var(--yellow);
+    padding-right: 5px;
+    
+  }
+  .review-section .carousel.slide .carousel-inner .carousel-caption h5{
+font-size: 1rem;
+margin-bottom: 2px;
+  }
+  .contact-section{
+    padding: 80px 0 40px;
+    background: url("../src/assets/footer/banner-1.jpg") no-repeat center center;
+    background-size: cover;
+  }
+  .contact-section h4{
+    font-size: 2.3rem;
+    margin-bottom: 10px;
+  }
+  .contact-section h2{
+    font-size: 4.5rem;
+    margin-bottom: 10px;
+  }
+  .contact-section p{
+    width: 70%;
+    margin: 0 auto 35px;
+
+  }
+  .contact-section a{
+    font-size: 22px;
+    font-weight: 700;
+  }
+  footer{
+    padding-top: 80px;
+  }
+  footer h5 {
+    color: var(--light-black);
+    line-height: 1;
+    margin-bottom: 25px;
+  }
+  footer p {
+    margin-bottom: 3px;
+    font-size: 1rem;
+  }
+  footer .calling {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--yellow);
+  }
+  footer ul li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 1.4rem;
+    cursor: pointer;
+  }
+  footer .copy-right {
+    border-top: 1px solid var(--light-grey-2);
+    margin-top: 60px;
+    padding: 20px 0;
+  }
+  footer .copy-right ul li span {
+    color: var(--light-red);
+    font-weight: 600;
+  }
+  footer .copy-right ul li {
+    font-size: 1rem;
+    padding: 0 10px;
+    position: relative;
+  }
+  footer .copy-right ul li:after {
+    content: "|";
+    padding-left: 11px;
+    position: absolute;
+    top: -1px;
+    right: -10px;
+  }
+  footer .copy-right ul li:last-child:after {
+    display: none;
+  }
+  .scroll-top{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: var(--light-red);
+   
+    border-radius: 10%;
+    height: 2.7rem;
+    width: 2.7rem;
+    text-align: center;
+    z-index: 99;
+    cursor: pointer;
+    line-height: 3rem;
+    
+  }
+  .scroll-top i{
+    color: var(--light-white);
+    font-size: 1.5rem;
+    text-align: center;
+  }
+@media (max-width:1200px) {
+    .promotion-section h2{
+        font-size: 2.25rem;
+    }
+}
+
+@media (max-width:767px) {
+    .hero-section .hero-text h1 {
+        font-size: 5.5rem;
+    }
+    .menu-section .para {
+       
+        padding: 10px 0px;
+    }
+    .shop-section h4{
+        font-size: 1.375rem;
+        
+    }
+    .shop-section h2{
+        font-size: 2.5rem;
+    
+    }
+    .review-section .carousel.slide .carousel-inner .carousel-caption p{
+        font-size: 1.25rem;
+        
+      }
+      .contact-section h4{
+        font-size: 1.25rem;
+        margin-bottom: 10px;
+      }
+      .contact-section h2{
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+      }
+}
+
+@media (max-width:992px) {
+    .about-section h2 {
+        font-size: 2.5rem;
+    }
+    .bg-parallax-scroll{
+        background-attachment: scroll;
+        height: 500px;
+    }
+}
